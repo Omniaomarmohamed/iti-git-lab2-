@@ -26,6 +26,11 @@ marge changes
 
 git checkout test
 git status
+git add .
+git status
+//from github . made a marge to test & master
+// and i made a commit in github
+
 
 
 
