@@ -1,0 +1,8 @@
+ lab 2
+1)
+git init 
+git status
+git add .
+git status 
+git log --oneline
+ssh-keygen -t rsa -b 4096 -c “omniablackswan@gmail.com”
