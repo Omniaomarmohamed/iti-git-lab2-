@@ -1,5 +1,7 @@
  lab 2
 1)
+create new repo
+
 git init 
 git status
 git add .
@@ -9,3 +11,25 @@ ssh-keygen -t rsa -b 4096 -c “omniablackswan@gmail.com”
 git add .
 git status
 git push origin master
+
+2)
+create 2branch
+
+git branch dev
+git branch test
+git branch
+git push origin dev 
+git push origin test
+ 
+3)
+marge changes
+
+git checkout test
+git status
+
+
+
+
+
+
+ 
